@@ -17,3 +17,12 @@ A simple Flask-based website for OnePlus Nord CE 3 Lite (Larry) ROM support.
 - Python 3 (Flask)
 - HTML / CSS
 
+## Schedule
+
+⏳ Development is scheduled to start **next month**.  
+Exams are really keeping me busy. I plan to start working on it from **20-08** or **25-08**.
+
+## Contributions
+
+📬 Have an idea or want to suggest something?  
+Please create an issue here: [Issues](https://github.com/rimehrab/larry_project/issues)
